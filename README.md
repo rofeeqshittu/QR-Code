@@ -70,4 +70,9 @@ python app.py
 
 Feel free to contribute to this project. If you have suggestions, find bugs, or want to add features, please do...
 
+## License
 
+Free for all to use..
+
+
+------ ©️R Rofeeq Shittu 2023... https://github.comm/rofeeqshittu/qr-code.git -----
