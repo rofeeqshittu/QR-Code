@@ -75,4 +75,4 @@ Feel free to contribute to this project. If you have suggestions, find bugs, or 
 Free for all to use..
 
 
------- ©️R Rofeeq Shittu 2023... https://github.comm/rofeeqshittu/qr-code.git -----
+------ ©️R Rofeeq Shittu 2023. - https://github.coom/rofeeqshittu/qr-code.git -----
