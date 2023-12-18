@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 A simple GUI application using PyQt6 to generate and read QR codes. The application allows users to load images, generate QR codes from text, save generated QR codes, and read QR codes from loaded images.
-!(App GUI)[app_gui.png]
+![app_gui.png](app gui pic)
 
 ## Table of Contents
 
